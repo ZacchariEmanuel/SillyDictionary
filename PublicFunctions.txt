@@ -1,1 +1,2 @@
-Dear {Title}{Noun}, this {50%Adjective ,10%"HUGE "}{default%Fucking }{Noun} is too {30%"god damn "}{Adjective}. Sincerely, {Title}{Noun}{Email,7.5%GamerSuffix,70%Blank.}
+Dear {Title}{Noun}, this {50%Adjective ,10%"HUGE "}{default%Fucking }{Noun} is too {30%"god damn "}{Adjective}. Sincerely, {Title}{Noun}{Email,7.5%GamerSuffix,70%Blank}
+{50%Adjective,50%Noun} {90%Noun,10%SuperNoun} and the {Job}'s {90%Noun,10%SuperNoun}
