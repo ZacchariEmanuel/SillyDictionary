@@ -22,6 +22,11 @@ Ms. | Title
 Mc | Title
 ussy | Suffix
 phobia | Suffix
+Neo | Prefix, Name
+John | Name
+Bob | Name
+Justin Trudeau | Name
+Taylor Swift | Name
 Hater | Agentive
 Killer | Agentive
 Slayer | Agentive
@@ -96,6 +101,13 @@ Bullet | Noun
 Magic | Noun, Adjective
 Believer | Agentive
 Sinner | Agentive
+Slayer | Agentive
+Guzzler | Agentive
+Hater | Agentive
+Investigator | Agentive, Job
+Inspector | Agentive, Job
+Lover | Agentive
+Salesman | Agentive, Job
 Jesus | Noun
 You | Noun
 Incel | Noun
@@ -127,3 +139,16 @@ Super | Adnoun, Adjective
 Monkey | Noun, Name
 Luffy | Name
 D. Luffy | Name
+Movie | MediaType
+Anime | MediaType
+Book | MediaType
+Videogame | MediaType
+Series | MediaType
+Lord | Title
+Completely Fucked | Situation
+Going to Die | Situation
+Dissapointing the Entire Family | Situation
+Disgracing the Nation | Situation
+Walking into the Nearest School and Opening Fire | Situation
+Sitting in the Corner Crying | Situation
+Doomscrolling | Situation
