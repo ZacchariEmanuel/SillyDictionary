@@ -116,7 +116,7 @@ Condom | Noun
 Alligator | Noun
 Dog | Noun
 Cat | Noun
-Authentic Italian | Adjective
+Authentic Italian | Adnoun
 Foreign | Adjective
 Water | Noun
 Fire | Noun
