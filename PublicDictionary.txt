@@ -30,3 +30,36 @@ Movie | MediaType
 Anime | MediaType
 Videogame | MediaType
 Genshin | Adjective
+Gay | Adjective
+Twinky | Adjective
+Rightwing | Adjective
+Liberal | Adjective
+Mentally Ill | Adjective
+Vampiric | Adjective
+Suicidal | Adjective
+Depressed | Adjective
+Straight White | Adjective
+Horny | Adjective
+Nice | Adjective
+Fearless | Adjective
+Phallic | Adjective
+Huge | Adjective
+Religious | Adjective
+Vaping | Adjective
+Sexy | Adjective
+Hideous | Adjective
+Political | Adjective
+Terminally Ill | Adjective
+Stupid | Adjective
+Genshin | Adjective
+Cishet | Adjective
+Goopy | Adjective
+Messy | Adjective
+Undead | Adjective
+Raging | Adjective
+Skibidi | Adjective
+Shitty | Adjective
+Bloody | Adjective
+Hot | Adjective
+Sweaty | Adjective
+Unidentified Flying | Adnoun
