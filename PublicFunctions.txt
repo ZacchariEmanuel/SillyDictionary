@@ -4,6 +4,6 @@ Dear {Title}{Noun}, this {50%adjective ,10%"HUGE "}{default%fucking }{Noun} is t
 I have a dream that one day this {Noun} will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all {SuperNoun}s are created {adjective}.
 Believe in {SuperNoun} or you are going to {Place}!
 You have the right to remain {adjective}. Anything you say can and will be used against you in a court of {SuperNoun}. You have the right to a {Noun}.
-Look! Up in the {noun}! It's a {noun}! It's a {noun}! No, it's {SuperNoun}!
+Look! Up in the sky! It's a {noun}! It's a {noun}! No, it's {SuperNoun}!
 Inside you there are two wolves. One is {SuperNoun,adjective}. One is {SuperNoun,adjective}. You are {adjective,situation,"both"}.
 I_AM_A_{SUPERNOUN}{Email,_GamerSuffix}
