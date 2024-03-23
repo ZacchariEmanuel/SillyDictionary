@@ -120,3 +120,7 @@ Authentic Italian | Adjective
 Foreign | Adjective
 Water | Noun
 Fire | Noun
+Air | Noun
+Earth | Noun, Place
+Equal | Adjective
+Super | Adnoun, Adjective
