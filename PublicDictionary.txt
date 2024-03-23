@@ -1,0 +1,32 @@
+Word | Noun
+Himbo | Noun
+69 | Number, GamerSuffix
+420 | Number, GamerSuffix
+3000 | Number, GamerSuffix
+1 | Number, GamerSuffix
+UWU | GamerSuffix
+XXX | GamerSuffix
+.TTV | GamerSuffix
+@hotmail.com | Email
+@gmail.com | Email
+@canada.gov | Email
+Hell | Place
+Brazil | Place
+Jail | Place
+Laurier | Place
+Waterloo | Place
+The United States of America | Place
+Dr.| Title
+Mr. | Title
+Ms. | Title
+Mc | Title
+ussy | Suffix
+phobia | Suffix
+Hater | Agentive
+Killer | Agentive
+Slayer | Agentive
+Fucker | Agentive
+Movie | MediaType
+Anime | MediaType
+Videogame | MediaType
+Genshin | Adjective
