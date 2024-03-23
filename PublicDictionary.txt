@@ -104,3 +104,19 @@ Superhero | Job
 Vigilante | Job
 Magician | Job
 Object | Noun
+Philosopher | Job
+Sorcerer | Job
+AK-47 | Noun
+Cupcake | Noun
+Banana | Noun
+Spaghetti | Noun
+Tissue | Noun
+Cum | Noun
+Condom | Noun
+Alligator | Noun
+Dog | Noun
+Cat | Noun
+Authentic Italian | Adjective
+Foreign | Adjective
+Water | Noun
+Fire | Noun
