@@ -124,3 +124,6 @@ Air | Noun
 Earth | Noun, Place
 Equal | Adjective
 Super | Adnoun, Adjective
+Monkey | Noun, Name
+Luffy | Name
+D. Luffy | Name
