@@ -6,3 +6,4 @@ Believe in {SuperNoun} or you are going to {Place}!
 You have the right to remain {adjective}. Anything you say can and will be used against you in a court of {SuperNoun}. You have the right to a {Noun}.
 Look! Up in the {noun}! It's a {noun}! It's a {noun}! No, it's {SuperNoun}!
 Inside you there are two wolves. One is {SuperNoun,adjective}. One is {SuperNoun,adjective}. You are {adjective}.
+I_AM_A_{SUPERNOUN}{Email,_GamerSuffix}
