@@ -24,6 +24,9 @@ ussy | Suffix
 phobia | Suffix
 Neo | Prefix, Name
 John | Name
+Zacc | Name
+Hitler | Name
+Stalin | Name
 Bob | Name
 Justin Trudeau | Name
 Taylor Swift | Name
