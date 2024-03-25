@@ -7,3 +7,4 @@ You have the right to remain {adjective}. Anything you say can and will be used 
 Look! Up in the sky! It's a {noun}! It's a {noun}! No, it's {SuperNoun}!
 Inside you there are two wolves. One is {SuperNoun,adjective}. One is {SuperNoun,adjective}. You are {adjective,situation,"both"}.
 I_AM_A_{SUPERNOUN}{Email,_GamerSuffix}
+According to all known laws of {SuperNoun}, there is no way a {SuperNoun} should be able to {Verb}.
