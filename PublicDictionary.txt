@@ -100,7 +100,7 @@ Detective | Job
 Bullet | Noun
 Magic | Noun, Adjective
 Believer | Agentive
-Sinner | Agentive
+Sinner | Noun
 Slayer | Agentive
 Guzzler | Agentive
 Hater | Agentive
@@ -128,6 +128,11 @@ Condom | Noun
 Alligator | Noun
 Dog | Noun
 Cat | Noun
+Stripper | Job
+Sex Addict | Noun
+Profoundly | AdverbOfDegree
+Deeply | AdverbOfDegree
+Closeted | Adjective
 Authentic Italian | Adnoun
 Foreign | Adjective
 Water | Noun
