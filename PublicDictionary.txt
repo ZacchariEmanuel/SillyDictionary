@@ -126,7 +126,7 @@ Cupcake | Noun
 Banana | Noun
 Spaghetti | Noun
 Tissue | Noun
-Cum | Noun
+Cum | Noun, Verb
 Condom | Noun
 Alligator | Noun
 Dog | Noun
@@ -160,3 +160,18 @@ Disgracing the Nation | Situation
 Walking into the Nearest School and Opening Fire | Situation
 Sitting in the Corner Crying | Situation
 Doomscrolling | Situation
+Run | Verb
+Ran | Verbed
+Running | Verbing
+Kill | Verb, -ed, -ing
+Killing | Verbing
+Die | Verb
+Dying | Verbing
+Fly | Verb, -ing
+Flying | Verbing
+Feel | Verb, -ing
+Feeling | Verb, Noun
+Felt | Verbed
+Speak | Verb, -ing
+Spoke | Verbed
+Speaking | Verbing
