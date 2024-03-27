@@ -1,4 +1,5 @@
 Word | Noun
+Brick | Noun
 Himbo | Noun
 69 | Number, GamerSuffix
 420 | Number, GamerSuffix
@@ -46,6 +47,8 @@ Mentally Ill | Adjective
 Vampiric | Adjective
 Suicidal | Adjective
 Depressed | Adjective
+Terrible | Adjective
+Insufficient | Adjective
 Straight White | Adjective
 Horny | Adjective
 Nice | Adjective
@@ -141,7 +144,10 @@ Foreign | Adjective
 Water | Noun
 Fire | Noun
 Air | Noun
-Earth | Noun, Place
+The Entire World | Noun
+Women's Suffrage | Noun
+Outer Space | Place
+Earth | Place
 Equal | Adjective
 Super | Adnoun, Adjective
 Monkey | Noun, Name
@@ -159,19 +165,21 @@ Dissapointing the Entire Family | Situation
 Disgracing the Nation | Situation
 Walking into the Nearest School and Opening Fire | Situation
 Sitting in the Corner Crying | Situation
-Doomscrolling | Situation
+Doomscroll | Verb, -ing, -ed
 Run | Verb
 Ran | Verbed
 Running | Verbing
 Kill | Verb, -ed, -ing
-Killing | Verbing
 Die | Verb
 Dying | Verbing
+Died | Verbed
 Fly | Verb, -ing
 Flying | Verbing
+Flew | Verbed
 Feel | Verb, -ing
 Feeling | Verb, Noun
 Felt | Verbed
 Speak | Verb, -ing
 Spoke | Verbed
 Speaking | Verbing
+Destroy | Verb, -ed, -ing
